@@ -1,0 +1,1 @@
+Apagar esse arquivo .txt(colocarIMG) e colocar nessa pasta (img), as imagens das pessoas para realizar o reconhecimento.
